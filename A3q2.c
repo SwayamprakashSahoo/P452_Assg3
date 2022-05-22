@@ -140,3 +140,17 @@ int main()
 
     return 0;
 }
+
+
+/*********************************************OUTPUT**********************************************
+Enter the no. of spatial grid points for half well :
+50
+Parity of desired solution :
+1
+Put in the initial guess of energy eigenvalue
+2
+Put in the step size
+0.01
+Search converged for 213 iterations.
+E = 4.000002
+**************************************************************************************************/
