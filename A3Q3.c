@@ -67,3 +67,18 @@ main()
     printf("\nExecution Complete. Data exported.\n");
     getch();
 }
+
+/*******************************OUTPUT**********************************
+Enter boundary conditions
+u[0 , y] = 0
+u[1 , y] = 0
+u[x , 1] = 0
+u[x , 0] = 1
+
+Enter length in x direction: 1
+Enter number of steps in x direction: 100
+Enter length in y direction: 1
+Enter number of steps in y direction: 100
+
+Execution Complete. Data exported.
+***************************************************************************/
